@@ -2,7 +2,7 @@
 
 ## [File Metadata Microservice project](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
 
-Working example: https://file--metadata--project.webdev.priv.pl/
+Working example: http://file--metadata--project.webdev.priv.pl/
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 
